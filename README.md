@@ -5,9 +5,9 @@ AI Engineer & Full-Stack Developer building intelligent applications.
 ## Projects
 
 - **[SafeThink](https://github.com/mfaizanshaikh/SafeThink)** - Privacy-first iOS AI assistant powered by on-device Qwen 3.5 models via MLX Swift. Zero data collection.
-- **[ondevice-speech-to-text](https://github.com/mfaizanshaikh/ondevice-speech-to-text)** - macOS menu bar app for universal speech-to-text using WhisperKit (on-device AI)
+- **[ondevice-speech-to-text](https://github.com/mfaizanshaikh/ondevice-speech-to-text)** - macOS menu bar app for universal speech-to-text using WhisperKit (on-device AI) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/offline-speech-to-text/id6758459215)
 - **[ai-support-assistant](https://github.com/mfaizanshaikh/ai-support-assistant)** - AI-powered support assistant
-- **[CalorieCounter](https://github.com/mfaizanshaikh/CalorieCounter)** - iOS calorie tracking app built with Swift
+- **[CalorieCounter](https://github.com/mfaizanshaikh/CalorieCounter)** - iOS calorie tracking app built with Swift [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/ai-calorie-coach/id6759585111)
 
 ### Forks & Contributions
 
